@@ -50,7 +50,7 @@
             display-name = "Fn";
             bindings = <
 &trans  &kp N1     &kp N2         &kp N3            &kp N4             &kp N5           &tog 1                                      &mo 3   &kp N6           &kp N7            &kp N8             &kp N9     &kp N0          &trans
-&trans  &kp TILDE  &kp GRAVE      &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp KP_PLUS      &none                                       &none   &kp KP_MINUS     &kp COLON         &kp SEMICOLON      &trans     &kp AT_SIGN     &trans
+&trans  &kp TILDE  &kp GRAVE      &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES  &kp KP_PLUS      &none                                       &none   &kp KP_MINUS     &trans            &kp COLON          &kp SEMI   &kp AT_SIGN     &trans
 &trans  &kp POUND  &trans         &kp H             &kp L              &kp KP_ASTERISK  &none   &trans  &trans      &trans  &trans  &none   &kp PERCENT      &kp J             &kp K              &kp EQUAL  &kp UNDERSCORE  &trans
 &trans  &kp CARET  &kp BACKSLASH  &kp PIPE          &kp SLASH          &kp AMPERSAND                    &trans      &trans                  &kp EXCLAMATION  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans     &trans          &trans
 &trans  &trans     &trans         &trans            &trans                              &trans  &trans  &trans      &trans  &trans  &trans                   &trans            &trans             &trans     &trans          &trans
